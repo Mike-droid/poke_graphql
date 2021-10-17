@@ -3,6 +3,7 @@
   grid-template-columns: repeat(3, 1fr);
   grid-gap: 20px;
   font-size: 1.5rem;
+  margin-left:15px;
 }
 
 .page_title {
