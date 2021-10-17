@@ -1,0 +1,11 @@
+.section {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.pokemon_image {
+  background-color: lightsteelblue;
+  border-radius: 50%;
+}
